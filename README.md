@@ -57,5 +57,5 @@ Ambos os modelos foram treinados e avaliados, com métricas de desempenho e grá
 
 ## 👨‍🏫 Autoria
 
-Este projeto foi realizado como parte da disciplina de [Nome da Disciplina] da [Nome da Instituição], com fins acadêmicos.
+Este projeto foi realizado como parte da disciplina de Data science da UP-Universidade Positivo, com fins acadêmicos.
 
